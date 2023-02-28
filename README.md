@@ -1,4 +1,5 @@
 # hexlet-project
+
 import random
 
 def is_even(num):
